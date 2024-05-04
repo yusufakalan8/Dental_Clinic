@@ -7,4 +7,4 @@ Bu proje, ambulanslarda çalışan sağlık personeline yardımcı olmak için t
 Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisanslanmıştır. Daha fazla bilgi için [LİSANS](LICENSE) dosyasına bakınız.
 
 ## İletişim
-Eğer projeyle ilgili herhangi bir sorunuz veya geri bildiriminiz varsa, enes.basduvar@mail.com adresine e-posta gönderebilirsiniz.
+Eğer projeyle ilgili herhangi bir sorunuz veya geri bildiriminiz varsa, enes.basduvar@mail.com veya yakalan6@gmail.com adresine e-posta gönderebilirsiniz.
